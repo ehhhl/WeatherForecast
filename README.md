@@ -1,5 +1,6 @@
 # WeatherForecast
 Android development
+
 Through this project, I learned how to use Android Studio for project development, mastered the design and lifecycle management of Activities, and acquired the skills to fetch and parse JSON data via HTTP protocol. I also learned to display data in the app using multithreading technology and implemented complex list displays using custom adapters, handling and displaying weather data with icons. Additionally, by adding music player and schedule features, I enhanced the app's diversity and practicality, mastering the basic implementation methods of multimedia playback and schedule management.
 
 In this project, I not only improved my user interaction design skills by creating a beautiful and user-friendly interface, but also provided personalized weather forecast services through city selection and location functions. I learned how to organize and manage Android projects, including code standards and documentation, and further improved my ability to analyze and solve problems by summarizing development experiences and issues through experiment reports.
